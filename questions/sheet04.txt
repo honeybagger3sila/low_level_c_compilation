@@ -1,0 +1,4 @@
+Sheet 04: Lexical Analysis for a Simple Assignment Language
+Purpose: Build a basic lexical analyzer (scanner) to tokenize a simple assignment language.
+Tasks:
+- Task 01: Recognize identifiers, keywords, numbers, operators, and delimiters from source text.

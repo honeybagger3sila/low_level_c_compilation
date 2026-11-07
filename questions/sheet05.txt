@@ -1,0 +1,4 @@
+Sheet 05: Syntax Analysis for a Simple Assignment Language
+Purpose: Build a basic syntax analyzer (parser) using recursive descent parsing.
+Tasks:
+- Task 01: Parse arithmetic expressions and assignment statements according to grammar rules.

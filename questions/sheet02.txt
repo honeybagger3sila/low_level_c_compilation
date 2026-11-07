@@ -1,0 +1,4 @@
+Sheet 02: File Input and Output in C
+Purpose: Learn how to open, read, write, and close text files using standard library functions.
+Tasks:
+- Task 01: Reading data from a text file, processing lines, and writing formatted results to an output file.

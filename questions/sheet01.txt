@@ -1,0 +1,6 @@
+Sheet 01: Introduction to C Programming & Basic Control Structures
+Purpose: Practice basic input/output, conditional branching, and loops in C.
+Tasks:
+- Task 01: Basic arithmetic operations and formatted I/O.
+- Task 02: Conditional statements (if-else) for range checking.
+- Task 03: Iterative loops (for/while) for summation and factorial calculation.

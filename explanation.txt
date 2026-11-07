@@ -1,0 +1,25 @@
+Explanation of Programs and Solutions
+
+1. Sheet 01 Solutions (Basic C Programming)
+- task01.c: Demonstrates basic console I/O using scanf and printf. It computes arithmetic sum, difference, product, and floating-point quotient with zero-division checking.
+  Example: Input '10 5' outputs Sum: 15, Difference: 5, Product: 50, Quotient: 2.00.
+- task02.c: Implements conditional branching (if-else if-else chain) to evaluate numerical scores against standard grading thresholds (A, B, C, D, F).
+  Example: Input '85' outputs Grade: B.
+- task03.c: Implements an iterative loop (for loop) to calculate the factorial of a given integer using unsigned long long integers to prevent early overflow.
+  Example: Input '5' outputs Factorial of 5 = 120.
+
+2. Sheet 02 Solutions (File I/O)
+- task01.c: Illustrates file handling with fopen, fscanf, fprintf, and fclose. It reads integers from 'input.txt', computes total count, sum, and average, and writes the summary to 'output.txt'.
+  Example: If input.txt has numbers 10, 20, 30, output.txt records Total numbers: 3, Sum: 60, Average: 20.00.
+
+3. Sheet 03 Solutions (Arrays and Functions)
+- task01.c: Shows modular programming and pointer passing. The function 'calculate_stats' computes minimum, maximum, and average values of an array and returns them via pointers.
+  Example: For array {15, 8, 23, 42, 4, 16}, Min is 4, Max is 42, Average is 18.00.
+
+4. Sheet 04 Solutions (Lexical Analysis)
+- task01.c: Implements a basic scanner that iterates through a source string, identifies keywords, identifiers, numbers, and operators, and prints classified tokens.
+  Example: For "int x = 42 + 10;", it detects keyword 'int', identifier 'x', operator '=', number '42', operator '+', number '10', and operator ';'.
+
+5. Sheet 05 Solutions (Syntax Analysis)
+- task01.c: Implements a recursive descent parser for arithmetic expressions following operator precedence rules (terms/factors).
+  Example: For expression "3+5*2", it evaluates multiplication before addition and outputs Result: 13.

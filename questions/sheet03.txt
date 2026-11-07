@@ -1,0 +1,4 @@
+Sheet 03: Arrays, Functions, and Modular Programming
+Purpose: Implement modular functions and manipulate 1D/2D arrays.
+Tasks:
+- Task 01: Array manipulation, searching, sorting, and passing arrays to functions.
